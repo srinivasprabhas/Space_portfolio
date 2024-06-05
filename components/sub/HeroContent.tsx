@@ -38,7 +38,7 @@ const HeroContent = () => {
               {" "}
               Welcome to my portfolio Website{" "}
             </span>
-             I'm prabhas a Data Analyst  
+             I am prabhas a Data Analyst  
           </span>
         </motion.div>
 
@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Data Analyst with a backgeound of Data Science and ML,
+          I`&apos;`m a Data Analyst with a backgeound of Data Science and ML,
           My current focus is on developing efficient algorithms to solve 
           optimization and Big Data challenges.
         </motion.p>
